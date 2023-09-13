@@ -10,7 +10,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyAwrcqB6kvulcW6h-ZR-DGfz7TJyix36_A",
-  authDomain: "crud-app-ce78b.firebaseapp.com",
+  authDomain: "test-1-2c9be.firebaseapp.com",
   projectId: "crud-app-ce78b",
   storageBucket: "crud-app-ce78b.appspot.com",
   messagingSenderId: "644987863680",
